@@ -14191,7 +14191,7 @@ a {
     text-decoration: underline
 }
 
-.SessionTitleBG .h2,
+.SessionTitleBG .h2,s
 .SessionTitleBG h2 {
     width: 100%;
     text-align: center;
@@ -14202,7 +14202,7 @@ a {
 
 .SessionTitleBG .h2 span,
 .SessionTitleBG h2 span {
-    background: url(/images/bg_quem_somos.png);
+    background: url(../images/bg_quem_somos.png);
     background-repeat: no-repeat;
     background-size: cover;
     font-size: 3rem;
