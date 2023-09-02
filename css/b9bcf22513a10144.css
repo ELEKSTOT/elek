@@ -381,7 +381,7 @@
 }
 
 .style_AboutSection__OfIf_ article {
-    background: url(/images/background/bg_quem_somos.png);
+    background: url(../images/background/bg_quem_somos.png);
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
@@ -453,7 +453,7 @@
 .style_ContactFormSection__uXQCx {
     margin-top: 6rem;
     position: relative;
-    background: url(/images/background/bg_formulario_contato.png);
+    background: url(../images/background/bg_formulario_contato.png);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 200px
@@ -752,7 +752,7 @@
 }
 
 .style_PoliticsSection__wHHEd article {
-    background: url(/images/background/bg_quem_somos.png);
+    background: url(../images/background/bg_quem_somos.png);
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
