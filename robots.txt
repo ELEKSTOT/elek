@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://elekstot.github.io/elek/sitemap.xml
+
+# Evitar páginas internas no útiles para Google
+Disallow: /private/
+Disallow: /tmp/
+
+# SEO: Declarar ubicación
+Host: elekstot.github.io
